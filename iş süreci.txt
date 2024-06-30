@@ -1,0 +1,87 @@
+✓ 1- Google haritalar araştırılıcak.
+✓ 2- Veri setini nasıl kullanmamız gerektiğini berlileyeceğiz. 
+3- Fonksiyonel gereksinimleri belirleyeceğiz.
+
+--- Cuma ---
+
+* ✓ Google haritalar'da marker işleviyle yer işaretcisini kullanmayı öğrendik. Api keylerinin sıkıntı yaratabildiğini gördük.
+* ✓  Her bir veriyi tek tek haritanın üzerinde göstereceğiz ve bir veriyi gösterirken hemen sonraki veri ile olan uzaklığını hesaplayıp araya o kadar zaman aralığı vereceğiz.
+* ✓ Haritada icon gösterip kaybetme işlemini başarıyla gerçekleştirebileceğimizi öğrendik. Böylelikle orada gif göstererek depremleri göstereceğiz.
+* ✓ Bedirhan harita ve iconlar üzerinde çalışıyor.
+* ✓ Ahmet js'de iconların belirme süreleri üzerinde çalışıyor.
+* (Askıya alındı) Bedirhan iconları revise edilmesi için zafer abiye gönderdi. Isı haritası üzerinde çalışıyor.
+* Ahmet iconların belirleme süresini düzenledi. Belirtilen dakika boyunca iconların arasındaki bekleme ayarlanabiliyor. 
+* ✓ Tarık ile input kısmını oluşturduk.
+* Bedirhan output kısmında date ve time üzerinde çalışıyor.
+* Ahmet inputlar ile uğraşıyor js'i buna göre düzenliyor.
+
+---Cuma---
+
+
+--- Cumartesi ---
+
+Ahmet:
+*  İconları yerleştirdim ama çok küçükler hiç belli olmuyorlar. Görmek için displayMarker fonksiyonundaki if else'de olan yorum bloğunu etkinleştir.
+* ✓ İlk başlangıçta genelde map ile ilgili bir hata geliyor.
+* ✓ Input kısmında 2 date verip göster butonuna bastığımız zaman onlar düzgün şekilde çalışıyor.
+* Markerların ekranda kalma süreselerinin ayarlanması lazım gifler bitemeden yok oluyo (optimum değerin bulunması gerek)
+* ✓ Input kısmı css düzenlendi hız ayarlamaları yapılacak.
+* ✓ Input kısmında tarih girildiğinde dakikayı optimal olucak şekilde kendisi veriyor. Hızı da sonrasında değiştirebiliyoruz.
+* ✓ Animasyonun ilerleme durumu bar içerisinde gösterildi.
+
+Bedirhan:
+* ✓ Saatin üstüne takvim eklendi. CSS ona göre düzenlendi. Calender genel divine alındı.
+* Gelen saat inputlarına göre ekleme ve sınırlandırma işlemi yapılacak
+
+--- Cumartesi --- 
+
+
+--- Pazar ---
+
+Ahemt: 
+* Gif bozulma önleme sistemi eklendi. Gifler bozulmasın diye belirtilen limite ulaşınca en eski gifler siliniyor.
+* Saniye gösterimi düzenlendi.
+
+--- Pazar ---
+
+
+--- Pazartesi ---
+
+Bedirhan:
+* Menu UI için tema belirlendi ve tasarımlar yapılmaya başlandı
+* Buttonlar temaya uygun hale getirildi
+* Takvim ve saat entegrasyonu sağlandı. Seçilen tarihe göre saat ve tarih düzenleniyor.
+* Ay ve yıla göre otomatik artış sağlandı
+* Input ve label kısımlarının tasarımı yapıldı
+
+Ahmet: 
+* End date düzenlendi artık son olarak seçin tarih de gösteriliyor.
+* Giflerin kaybolma süreleri düzenlendi büyük depremler daha uzun süre harita üzerinde gösteriliyor.
+* Bitir butonundan sonra başlatılan yeni animasyonda eski depremler gösteriliyordu. Bu sorun giderildi.
+
+---Pazartesi---
+
+
+--- Salı ---
+Bedirhan:
+* Markerlardaki efect yüzünden hepsi aynı anda gelip aynı anda gidiyomuş gibi gözüktüğü için yeni marker sistemine geçtik
+
+Ahmet:
+* Bedirhanın date için istediği verileri terkar düzenledim.
+* Bedirhan'ın benim kodumda yaptığı değişiklikten dolayı olan problem giderildi. (index.js 80) [Commit id: b48d56caf3a958304b7d6c094cc2d615931cd893 ].
+--- Salı ---
+
+
+--- Çarşamba ---
+Ahmet:
+* Yeni branch açıldı.
+* ✓ index.js'de iyileştirmeler yapılacak ve yorumlar daha anlaşılır hale getirilecek.
+* ✓ Haritaya deprem büyüklüğü ölçeği eklenecek.
+* ✓ Deprem büyüklüğüne göre filtreleme eklenecek.
+* ✓ Input ve Output kısımları dönen bir kartla ayrılacak.
+--- Çarşamba ---
+
+
+28/02/2023
+Ahmet:
+* Output kısmı düzenlendi.

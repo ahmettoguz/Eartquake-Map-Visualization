@@ -1,0 +1,722 @@
+[
+    {
+        "Coordinate": {
+            "lat": 37.0579698,
+            "lng": 30.9237597
+        },
+        "Key": "07",
+        "Label": "Antalya"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.929272,
+            "lng": 32.5826952
+        },
+        "Key": "06",
+        "Label": "Ankara"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.6740303,
+            "lng": 29.1831758
+        },
+        "Key": "20",
+        "Label": "Denizli"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.5192794,
+            "lng": 30.1719453
+        },
+        "Key": "15",
+        "Label": "Burdur"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.9825653,
+            "lng": 30.953195
+        },
+        "Key": "32",
+        "Label": "Isparta"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.0072965,
+            "lng": 28.59968
+        },
+        "Key": "48",
+        "Label": "Muğla"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.7541805,
+            "lng": 28.0625703
+        },
+        "Key": "09",
+        "Label": "Aydın"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.2447635,
+            "lng": 27.3667698
+        },
+        "Key": "35",
+        "Label": "İzmir"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.7415798,
+            "lng": 28.1724336
+        },
+        "Key": "45",
+        "Label": "Manisa"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.0223019,
+            "lng": 26.7916353
+        },
+        "Key": "17",
+        "Label": "Çanakkale"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.6567536,
+            "lng": 27.987924
+        },
+        "Key": "10",
+        "Label": "Balıkesir"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.1343863,
+            "lng": 29.0499359
+        },
+        "Key": "16",
+        "Label": "Bursa"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.3175994,
+            "lng": 29.5870456
+        },
+        "Key": "43",
+        "Label": "Kütahya"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.5561048,
+            "lng": 29.3764966
+        },
+        "Key": "64",
+        "Label": "Uşak"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.6800939,
+            "lng": 30.6704419
+        },
+        "Key": "03",
+        "Label": "Afyonkarahisar"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.6266734,
+            "lng": 31.0366532
+        },
+        "Key": "26",
+        "Label": "Eskişehir"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.0881386,
+            "lng": 30.0951184
+        },
+        "Key": "11",
+        "Label": "Bilecik"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.9918439,
+            "lng": 32.4907892
+        },
+        "Key": "42",
+        "Label": "Konya"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.0053953,
+            "lng": 27.3007571
+        },
+        "Key": "59",
+        "Label": "Tekirdağ"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.6516386,
+            "lng": 27.4472416
+        },
+        "Key": "39",
+        "Label": "Kırklareli"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.2513557,
+            "lng": 26.7135991
+        },
+        "Key": "22",
+        "Label": "Edirne"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.100247,
+            "lng": 28.8566111
+        },
+        "Key": "34",
+        "Label": "İstanbul"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.8829353,
+            "lng": 29.959945
+        },
+        "Key": "41",
+        "Label": "Kocaeli"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.7900746,
+            "lng": 30.547103
+        },
+        "Key": "54",
+        "Label": "Sakarya"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.9045771,
+            "lng": 31.2148279
+        },
+        "Key": "81",
+        "Label": "Düzce"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.5794854,
+            "lng": 31.5871423
+        },
+        "Key": "14",
+        "Label": "Bolu"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.2580401,
+            "lng": 31.8410147
+        },
+        "Key": "67",
+        "Label": "Zonguldak"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.5966916,
+            "lng": 32.4757809
+        },
+        "Key": "74",
+        "Label": "Bartın"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.4477196,
+            "lng": 33.745312
+        },
+        "Key": "37",
+        "Label": "Kastamonu"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.1266831,
+            "lng": 32.6466792
+        },
+        "Key": "78",
+        "Label": "Karabük"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.6089193,
+            "lng": 29.2387474
+        },
+        "Key": "77",
+        "Label": "Yalova"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.6553075,
+            "lng": 33.5009569
+        },
+        "Key": "18",
+        "Label": "Çankırı"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.8250777,
+            "lng": 33.6962693
+        },
+        "Key": "71",
+        "Label": "Kırıkkale"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.2564948,
+            "lng": 34.1369435
+        },
+        "Key": "40",
+        "Label": "Kırşehir"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.7158248,
+            "lng": 34.7290695
+        },
+        "Key": "50",
+        "Label": "Nevşehir"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.4581975,
+            "lng": 33.8989915
+        },
+        "Key": "68",
+        "Label": "Aksaray"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.9112876,
+            "lng": 34.6558271
+        },
+        "Key": "51",
+        "Label": "Niğde"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.1931912,
+            "lng": 33.3159152
+        },
+        "Key": "70",
+        "Label": "Karaman"
+    },
+    {
+        "Coordinate": {
+            "lat": 36.724992,
+            "lng": 33.816404
+        },
+        "Key": "33",
+        "Label": "Mersin"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.2806578,
+            "lng": 35.5009741
+        },
+        "Key": "01",
+        "Label": "Adana"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.6958,
+            "lng": 35.8745093
+        },
+        "Key": "38",
+        "Label": "Kayseri"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.6985463,
+            "lng": 35.2397437
+        },
+        "Key": "66",
+        "Label": "Yozgat"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.5791689,
+            "lng": 34.6778096
+        },
+        "Key": "19",
+        "Label": "Çorum"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.6742549,
+            "lng": 34.882888
+        },
+        "Key": "57",
+        "Label": "Sinop"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.2240927,
+            "lng": 36.029128
+        },
+        "Key": "55",
+        "Label": "Samsun"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.6763567,
+            "lng": 35.745925
+        },
+        "Key": "05",
+        "Label": "Amasya"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.3775875,
+            "lng": 36.5393821
+        },
+        "Key": "60",
+        "Label": "Tokat"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.5688819,
+            "lng": 37.3151386
+        },
+        "Key": "58",
+        "Label": "Sivas"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.8275032,
+            "lng": 36.9196308
+        },
+        "Key": "46",
+        "Label": "Kahramanmaraş"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.1781905,
+            "lng": 36.2665545
+        },
+        "Key": "80",
+        "Label": "Osmaniye"
+    },
+    {
+        "Coordinate": {
+            "lat": 36.3292924,
+            "lng": 36.2126324
+        },
+        "Key": "31",
+        "Label": "Hatay"
+    },
+    {
+        "Coordinate": {
+            "lat": 36.8035716,
+            "lng": 37.0897074
+        },
+        "Key": "79",
+        "Label": "Kilis"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.1116431,
+            "lng": 37.4168557
+        },
+        "Key": "27",
+        "Label": "Gaziantep"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.2560642,
+            "lng": 39.1343851
+        },
+        "Key": "63",
+        "Label": "Şanlıurfa"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.7885478,
+            "lng": 38.340928
+        },
+        "Key": "02",
+        "Label": "Adıyaman"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.5247561,
+            "lng": 38.0082865
+        },
+        "Key": "44",
+        "Label": "Malatya"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.5949144,
+            "lng": 39.4767926
+        },
+        "Key": "23",
+        "Label": "Elazığ"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.2033927,
+            "lng": 39.4883891
+        },
+        "Key": "62",
+        "Label": "Tunceli"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.7076408,
+            "lng": 39.3235942
+        },
+        "Key": "24",
+        "Label": "Erzincan"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.3032537,
+            "lng": 39.4114848
+        },
+        "Key": "29",
+        "Label": "Gümüşhane"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.58196,
+            "lng": 38.4446879
+        },
+        "Key": "28",
+        "Label": "Giresun"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.7879205,
+            "lng": 37.5139017
+        },
+        "Key": "52",
+        "Label": "Ordu"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.8296703,
+            "lng": 39.8217134
+        },
+        "Key": "61",
+        "Label": "Trabzon"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.9173593,
+            "lng": 40.841306
+        },
+        "Key": "53",
+        "Label": "Rize"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.2684155,
+            "lng": 40.2224095
+        },
+        "Key": "69",
+        "Label": "Bayburt"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.0424829,
+            "lng": 40.6447729
+        },
+        "Key": "12",
+        "Label": "Bingöl"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.0496009,
+            "lng": 40.376218
+        },
+        "Key": "21",
+        "Label": "Diyarbakır"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.3790343,
+            "lng": 40.8522924
+        },
+        "Key": "47",
+        "Label": "Mardin"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.045833,
+            "lng": 41.2856421
+        },
+        "Key": "72",
+        "Label": "Batman"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.8574388,
+            "lng": 41.6634497
+        },
+        "Key": "49",
+        "Label": "Muş"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.0188749,
+            "lng": 41.5108622
+        },
+        "Key": "25",
+        "Label": "Erzurum"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.5566832,
+            "lng": 42.4002838
+        },
+        "Key": "13",
+        "Label": "Bitlis"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.9075327,
+            "lng": 42.0767973
+        },
+        "Key": "56",
+        "Label": "Siirt"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.5019036,
+            "lng": 42.5406646
+        },
+        "Key": "73",
+        "Label": "Şırnak"
+    },
+    {
+        "Coordinate": {
+            "lat": 37.5599867,
+            "lng": 44.1275788
+        },
+        "Key": "30",
+        "Label": "Hakkari"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.4066579,
+            "lng": 43.5782624
+        },
+        "Key": "65",
+        "Label": "Van"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.6770559,
+            "lng": 43.0411527
+        },
+        "Key": "04",
+        "Label": "Ağrı"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.9021726,
+            "lng": 44.0543364
+        },
+        "Key": "76",
+        "Label": "Iğdır"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.4988771,
+            "lng": 43.0533594
+        },
+        "Key": "36",
+        "Label": "Kars"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.1629618,
+            "lng": 42.7481837
+        },
+        "Key": "75",
+        "Label": "Ardahan"
+    },
+    {
+        "Coordinate": {
+            "lat": 41.1969557,
+            "lng": 41.7960357
+        },
+        "Key": "08",
+        "Label": "Artvin"
+    },
+    {
+        "Coordinate": {
+            "lat": 35.2486507,
+            "lng": 33.6662903
+        },
+        "Key": "82",
+        "Label": "KKTC"
+    },
+    {
+        "Coordinate": {
+            "lat": 35.8642456,
+            "lng": 38.7857818
+        },
+        "Key": "1008",
+        "Label": "Suriye"
+    },
+    {
+        "Coordinate": {
+            "lat": 36.0953957,
+            "lng": 43.5758209
+        },
+        "Key": "1007",
+        "Label": "Irak"
+    },
+    {
+        "Coordinate": {
+            "lat": 38.1104742,
+            "lng": 46.058731
+        },
+        "Key": "1006",
+        "Label": "İran"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.8356522,
+            "lng": 46.6519927
+        },
+        "Key": "1005",
+        "Label": "Azerbaycan"
+    },
+    {
+        "Coordinate": {
+            "lat": 40.6407481,
+            "lng": 44.6305084
+        },
+        "Key": "1004",
+        "Label": "Ermenistan"
+    },
+    {
+        "Coordinate": {
+            "lat": 42.0428769,
+            "lng": 44.0372466
+        },
+        "Key": "1003",
+        "Label": "Gürcistan"
+    },
+    {
+        "Coordinate": {
+            "lat": 42.4495131,
+            "lng": 25.0968169
+        },
+        "Key": "1002",
+        "Label": "Bulgaristan"
+    },
+    {
+        "Coordinate": {
+            "lat": 39.7174433,
+            "lng": 21.6031646
+        },
+        "Key": "1001",
+        "Label": "Yunanistan"
+    }
+]

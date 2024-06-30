@@ -1,0 +1,1 @@
+function runSwiper(){new Swiper(".swiper",{direction:"horizontal",loop:!1,autoplay:{delay:1e5},pagination:{el:".swiper-pagination",clickable:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}})}
