@@ -1,4 +1,4 @@
-<h1 align="center">Türkiye Deprem Haritası</h1> 
+<h1 align="center">Türkiye Eartquake Map Visualization</h1> 
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-https://github.com/ahmettoguz/Eartquake_Report/assets/101711642/3d73049a-3aa8-42c9-9323-3238e84d249a
+https://github.com/ahmettoguz/Eartquake-Report/assets/101711642/28643191-2945-4042-acfa-cf9a398aefb9
 
 <br/>
 
